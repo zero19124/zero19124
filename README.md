@@ -5,9 +5,9 @@
 
 [![](https://img.shields.io/badge/Gmail-qq534883225%40gmail.com-red)](mailto:qq534883225@gmail.com)
 
-⭐️ Check My Portfolios and reach me [Click here!](https://evan-portfolio-next.onrender.com)
+⭐️ Check My Portfolios for more about me and reach me [Click here!](https://evan-portfolio-next.onrender.com)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> about me.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">little about me👇
 
 
 
