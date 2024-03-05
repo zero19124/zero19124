@@ -1,25 +1,30 @@
-<h2> Hi, I'm Evan wong! </h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+## Hi There! I'm Evan.
+## Frontend Dev | Mobile Dev | FullStack 👨‍💻
+
+[![](https://img.shields.io/badge/Gmail-qq534883225%40gmail.com-red)](mailto:qq534883225@gmail.com)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Check out my projects and more about me!
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<a href="https://evan-portfolio-next.onrender.com/"></a>
 
 ```javascript
-const Evan = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, ReactNative, Nextjs],
-  tools: [Expo, Recoil,Docker],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev"],
+    technologies:{
+        backEnd: ["nodejs", "express", "java"],
+        fronEnd: ["react","vue",'nextjs'],
+        mobileApp: ["reactNative","expo","android"],
+        database: ["mongo","mySql"],
+        devOps: ["Nginx", "Jenkins"],
+        misc: ["Socket.IO"]
+    },
+    architecture: [ "microservices", "Single page applications"],
 }
 ```
 
-
 ---
-
 ⭐️ From [@zero19124](https://github.com/zero19124)
