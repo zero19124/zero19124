@@ -22,6 +22,7 @@
 ```javascript
 const Evan = {
     pronouns: "He" | "Him",
+    languages:["english","japanese","chinese"]
     askMeAbout: ["app dev", "web dev"],
     technologies:{
         backEnd: ["nodejs", "express", "java"],
