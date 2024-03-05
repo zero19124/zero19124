@@ -11,7 +11,7 @@
 ### ⭐️ Explore My Portfolio!
 #### Discover more about my work and how to connect with me. Dive into a selection of demo videos I've created to introduce my projects and showcase my skills.
 
-## [Click here!)(https://evan-portfolio-next.onrender.com)
+## [Click here!](https://evan-portfolio-next.onrender.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">little about me👇
 
