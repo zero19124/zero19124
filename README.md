@@ -7,10 +7,10 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">more about me.
+<img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
 
 ⭐️ Check My Portfolios and reach me [Click here!](https://evan-portfolio-next.onrender.com)
 
-<img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
 
 ```javascript
 const ashraf = {
