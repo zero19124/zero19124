@@ -1,4 +1,4 @@
-<img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
+
 
 ## Hi There! I'm Evan.
 ## Frontend Dev | Mobile Dev | FullStack 👨‍💻
@@ -8,7 +8,9 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">more about me.
 
-⭐️ From [Click here to check my portfolios and reach me!](https://github.com/zero19124](https://evan-portfolio-next.onrender.com)
+⭐️ Check My Portfolios and reach me [Click here!](https://evan-portfolio-next.onrender.com)
+
+<img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
 
 ```javascript
 const ashraf = {
