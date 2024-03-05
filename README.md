@@ -14,7 +14,7 @@
 
 
 ```javascript
-const ashraf = {
+const Evan = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev"],
     technologies:{
