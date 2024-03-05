@@ -29,5 +29,3 @@ const ashraf = {
 }
 ```
 
----
-⭐️ From [@zero19124](https://github.com/zero19124)
