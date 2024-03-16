@@ -1,8 +1,11 @@
 
 
 ## Hi There! I'm Evan.
-### Frontend Dev | Mobile Dev | FullStack 👨‍💻 <br>
+### Frontend Dev | Mobile Dev | FullStack 👨‍💻
+<br>
 <img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
+ <br>
+
 
 [![](https://img.shields.io/badge/Gmail-qq534883225%40gmail.com-red)](mailto:qq534883225@gmail.com)
  <br>
