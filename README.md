@@ -28,9 +28,9 @@ const Evan = {
     technologies:{
         backEnd: ["nodejs", "express", "java"],
         frontEnd: ["typescript","react","vue",'nextjs'],
-        mobileApp: ["reactNative","expo","android"],
+        mobileApp: ["reactNative","expo","android","Kotlin"],
         database: ["mongo","mySql"],
-        devOps: ["Nginx", "Jenkins"],
+        devOps: ["Nginx", "Jenkins","Docker"],
         misc: ["Socket.IO","WebRtc"]
     },
     architecture: [ "microservices", "Single page applications"],
