@@ -24,14 +24,14 @@
 const Evan = {
     pronouns: "He" | "Him",
     languages:["english","japanese","chinese"],
-    askMeAbout: ["app dev", "web dev"],
+    askMeAbout: ["app dev", "web dev","full stack"],
     technologies:{
         backEnd: ["nodejs", "express", "java"],
         frontEnd: ["typescript","react","vue",'nextjs'],
         mobileApp: ["reactNative","expo","android"],
         database: ["mongo","mySql"],
         devOps: ["Nginx", "Jenkins"],
-        misc: ["Socket.IO"]
+        misc: ["Socket.IO","WebRtc"]
     },
     architecture: [ "microservices", "Single page applications"],
 }
