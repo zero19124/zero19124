@@ -12,7 +12,7 @@
 ### ⭐️ Explore My Portfolio!
 #### Discover more about my work and how to connect with me. Dive into a selection of demo videos I've created to introduce my projects and showcase my skills.
 
-## [Click here to my Portfolio!](https://evan-portfolio-next-4bhk.vercel.app)
+## [Click here to my Portfolio!](https://evan-portfolio-next.vercel.app)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">little infos about me 👇 
 
