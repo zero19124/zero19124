@@ -1,7 +1,7 @@
 
 
 ## Hi There! I'm Evan.
-### Frontend Dev | Mobile Dev | FullStack （with 6 yoe）👨‍💻
+### Frontend Dev | Mobile Dev | FullStack （with 6 yoe）👨‍💻 
 <br>
 <img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
 
