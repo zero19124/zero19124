@@ -27,7 +27,7 @@ const Evan = {
     askMeAbout: ["app dev", "web dev","full stack"],
     technologies:{
         backEnd: ["nodejs", "express", "java"],
-        frontEnd: ["typescript","react","vue",'nextjs'],
+        frontEnd: ["typescript","react","vue",'nextjs'，'web3.js'],
         mobileApp: ["reactNative","expo","android","Kotlin"],
         database: ["mongo","mySql"],
         devOps: ["Nginx", "Jenkins","Docker"],
