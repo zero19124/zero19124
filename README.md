@@ -24,11 +24,11 @@
 const Evan = {
     pronouns: "He" | "Him",
     languages:["english","japanese","chinese"],
-    askMeAbout: ["app dev", "web dev","full stack"],
+    askMeAbout: ["Dapp","app dev", "web dev","full stack"],
     technologies:{
         backEnd: ["nodejs", "express", "java"],
-        frontEnd: ["typescript","react","vue",'nextjs'，'web3.js'],
-        mobileApp: ["reactNative","expo","android","Kotlin"],
+        frontEnd: ["typescript","react",'nextjs'，'ethers'],
+        mobileApp: ["reactNative","expo"],
         database: ["mongo","mySql"],
         devOps: ["Nginx", "Jenkins","Docker"],
         misc: ["Socket.IO","WebRtc"]
